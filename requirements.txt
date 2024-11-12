@@ -3,3 +3,4 @@ pdfplumber
 altair
 xlsxwriter
  openpyxl
+matplotlib
