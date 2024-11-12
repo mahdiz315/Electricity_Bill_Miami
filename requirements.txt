@@ -4,3 +4,9 @@ altair
 xlsxwriter
  openpyxl
 matplotlib
+re
+pandas 
+os
+numpy 
+datetime
+time
